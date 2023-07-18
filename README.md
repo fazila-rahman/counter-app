@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # It's a simple counter-App using [React.js](https://reactjs.org) that utilizes react hooks
 
-> **This tiny application shows how you may increment, decrement or rest any counter.**
+> **This tiny application shows how you may increment, decrement or reset any counter.**
 
 **This is a very basic app but useful to understand the React Components, states, Data Flow, parent to child etc. using react function hooks**
 
